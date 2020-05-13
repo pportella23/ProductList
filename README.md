@@ -1,3 +1,4 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Product List
+This is a small project designed to improve my knowledge of Reactjs
 
-acess by: http://rustic-fly.surge.sh/
+You can see the result in: http://rustic-fly.surge.sh/
